@@ -41,7 +41,7 @@ Once you have your `docker-compose.yml` file configured, you can start the Enclo
 You can download the `docker-compose.yml` file directly from the repository:
 
 ```bash
-curl -O https://raw.githubusercontent.com/CorentinTh/enclosed/main/docker-compose.yml
+curl -O https://raw.githubusercontent.com/04312581464/enclosed-lalit/main/docker-compose.yml
 ```
 
 ### Start the Service

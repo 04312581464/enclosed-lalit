@@ -4,10 +4,10 @@
   "description": "Deploy scripts for Cloudflare Pages",
   "packageManager": "pnpm@9.15.0",
   "license": "Apache-2.0",
-  "author": "Corentin Thomasset <corentinth@proton.me> (https://corentin.tech)",
+  "author": "Lalit Manjunatha <lalitmanjunatha2607@gmail.com> (https://lalit-m.webflow.io)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CorentinTh/enclosed"
+    "url": "https://github.com/04312581464/enclosed-lalit"
   },
   "scripts": {
     "build": "./build.sh"
